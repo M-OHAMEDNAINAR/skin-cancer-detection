@@ -1,1 +1,1 @@
-# Parkinsons-Disease-using-Machine-Learning
+# skin-cancer-detection-using-Machine-Learning
